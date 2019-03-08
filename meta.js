@@ -1,4 +1,4 @@
-var warna = require('color');
+var warna = require('colors');
 var sh = require('shelljs');
 
 console.log(warna.rainbow("Metasploit installer by fajar firdaus"))
