@@ -11,3 +11,7 @@
 4.npm install --save colors shelljs
 5.node meta
 </pre>
+
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
